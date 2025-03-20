@@ -1,5 +1,5 @@
 
-# Destini 🤔
+# Destini
 
 ## Goal
 
